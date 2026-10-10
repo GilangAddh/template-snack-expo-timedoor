@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "project1",
-    "slug": "project1",
+    "name": "Sample Project",
+    "slug": "sample-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "project1",
+    "scheme": "first-screen",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
